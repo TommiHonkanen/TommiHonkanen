@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey there 👋
 
-<!--
-**TommiHonkanen/tommihonkanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tommi, I'm a second-year computer science student at Aalto University. <br>
 
-Here are some ideas to get you started:
+I'm a software developer most experienced with front-end development, but I'm always striving to expand my knowledge in all areas of computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my [portfolio](https://tommihonkanen.github.io/portfolio-website/) for more information.
+
+## Some technologies I've worked with 
+
+- React
+- React Native
+- Scala
+- TypeScript
+- JavaScript
+- Haskell
+- C
