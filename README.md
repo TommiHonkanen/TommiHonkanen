@@ -15,3 +15,4 @@ Check out my [portfolio](https://tommihonkanen.github.io/portfolio-website/) for
 - JavaScript
 - Haskell
 - C
+- SQL
