@@ -1,6 +1,6 @@
 # Hey there 👋
 
-My name is Tommi, I'm a second-year computer science student at Aalto University. <br>
+My name is Tommi, I'm a third-year computer science student at Aalto University. <br>
 
 I'm a software developer most experienced with front-end development, but I'm always striving to expand my knowledge in all areas of computer science.
 
